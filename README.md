@@ -2,7 +2,7 @@
 
   <img src="https://img.shields.io/badge/Hello%2C%20pminh05-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
-  <h1>🌌 Welcome to my universe!</h1>
+  <h1>🌌 Welcome to my world!</h1>
   <h3>AI/ML Engineer | Full-Stack Developer | Tech Enthusiast</h3>
   
   <br>
@@ -28,7 +28,7 @@
   <a href="https://github.com/pminh05">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/pham-phuc-minh/">
+  <a href="https://www.linkedin.com/in/minh-ph%E1%BA%A1m-554146293/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -82,8 +82,8 @@
 - 🔍 Data Analysis & Processing
 
 **Full-Stack Development:**
-- 🌐 Backend (Flask, Python)
-- 🎨 Frontend (HTML, CSS, JavaScript)
+- 🌐 Backend (Flask, Python, NextJS)
+- 🎨 Frontend (HTML, CSS, JavaScript, NextJS)
 - 📚 Web Development Projects
 
 ---
