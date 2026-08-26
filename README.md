@@ -97,13 +97,7 @@
   </a>
 
   <br><br>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pminh05&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
-  </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pminh05&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
   </a>
 
 </div>
@@ -118,10 +112,17 @@
 ---
 
 ### 🐍 Fun Fact: Contribution Activity
+<!-- 🐍 Contribution Activity -->
 <div align="center">
-  <img src="https://github.com/pminh05/pminh05/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/minh05/minh05/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+  />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
+    alt="Footer decoration"
+  />
 </div>
