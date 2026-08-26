@@ -88,14 +88,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Streak
+
 <div align="center">
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pminh05&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
+  <a href="https://github.com/pminh05">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pminh05&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
   </a>
-  
-  <br>
+
+  <br><br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pminh05&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
@@ -105,13 +106,14 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pminh05&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
   </a>
 
-  <br>
-
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=pminh05&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
-  </a>
-
 </div>
+
+---
+
+### 📈 Contribution Summary
+- **Total Contributions:** 122 (Apr 15, 2024 - Present)
+- **Current Streak:** 3 days (Aug 24 - Aug 26)
+- **Longest Streak:** 5 days (Aug 2 - Aug 6)
 
 ---
 
