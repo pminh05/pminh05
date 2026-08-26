@@ -88,12 +88,12 @@
 
 ---
 
-### 📊 GitHub Activity & Streak
+### 📊 GitHub Stats & Contribution Activity
 
 <div align="center">
 
-  <a href="https://github.com/pminh05">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pminh05&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=pminh05&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
   </a>
 
   <br><br>
