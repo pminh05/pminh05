@@ -2,7 +2,7 @@
 
   <img src="https://img.shields.io/badge/Hello%2C%20I'm Ming-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
-  <h1>🌌 Welcome to my world!</h1>
+  <h1>🌌 Welcome to my Git!</h1>
   <h3>AI/ML Engineer | Full-Stack Developer | Tech Enthusiast</h3>
   
   <br>
